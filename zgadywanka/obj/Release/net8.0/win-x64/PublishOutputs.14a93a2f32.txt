@@ -1,0 +1,5 @@
+D:\OneDrive - Politechnika Wroclawska\PRACA-GIGANCI\MOJE KURSY ROCZNE\C#_01W\17.Zgadywanka\source_code\zgadywanka\publish\zgadywanka.exe
+D:\OneDrive - Politechnika Wroclawska\PRACA-GIGANCI\MOJE KURSY ROCZNE\C#_01W\17.Zgadywanka\source_code\zgadywanka\publish\zgadywanka.dll
+D:\OneDrive - Politechnika Wroclawska\PRACA-GIGANCI\MOJE KURSY ROCZNE\C#_01W\17.Zgadywanka\source_code\zgadywanka\publish\zgadywanka.deps.json
+D:\OneDrive - Politechnika Wroclawska\PRACA-GIGANCI\MOJE KURSY ROCZNE\C#_01W\17.Zgadywanka\source_code\zgadywanka\publish\zgadywanka.runtimeconfig.json
+D:\OneDrive - Politechnika Wroclawska\PRACA-GIGANCI\MOJE KURSY ROCZNE\C#_01W\17.Zgadywanka\source_code\zgadywanka\publish\zgadywanka.pdb

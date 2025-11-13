@@ -1,0 +1,14 @@
+D:\OneDrive - Politechnika Wroclawska\PRACA-GIGANCI\MOJE KURSY ROCZNE\C#_01W\17.Zgadywanka\source_code\zgadywanka\bin\Release\net8.0\win-x64\zgadywanka.exe
+D:\OneDrive - Politechnika Wroclawska\PRACA-GIGANCI\MOJE KURSY ROCZNE\C#_01W\17.Zgadywanka\source_code\zgadywanka\bin\Release\net8.0\win-x64\zgadywanka.deps.json
+D:\OneDrive - Politechnika Wroclawska\PRACA-GIGANCI\MOJE KURSY ROCZNE\C#_01W\17.Zgadywanka\source_code\zgadywanka\bin\Release\net8.0\win-x64\zgadywanka.runtimeconfig.json
+D:\OneDrive - Politechnika Wroclawska\PRACA-GIGANCI\MOJE KURSY ROCZNE\C#_01W\17.Zgadywanka\source_code\zgadywanka\bin\Release\net8.0\win-x64\zgadywanka.dll
+D:\OneDrive - Politechnika Wroclawska\PRACA-GIGANCI\MOJE KURSY ROCZNE\C#_01W\17.Zgadywanka\source_code\zgadywanka\bin\Release\net8.0\win-x64\zgadywanka.pdb
+D:\OneDrive - Politechnika Wroclawska\PRACA-GIGANCI\MOJE KURSY ROCZNE\C#_01W\17.Zgadywanka\source_code\zgadywanka\obj\Release\net8.0\win-x64\zgadywanka.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Politechnika Wroclawska\PRACA-GIGANCI\MOJE KURSY ROCZNE\C#_01W\17.Zgadywanka\source_code\zgadywanka\obj\Release\net8.0\win-x64\zgadywanka.AssemblyInfoInputs.cache
+D:\OneDrive - Politechnika Wroclawska\PRACA-GIGANCI\MOJE KURSY ROCZNE\C#_01W\17.Zgadywanka\source_code\zgadywanka\obj\Release\net8.0\win-x64\zgadywanka.AssemblyInfo.cs
+D:\OneDrive - Politechnika Wroclawska\PRACA-GIGANCI\MOJE KURSY ROCZNE\C#_01W\17.Zgadywanka\source_code\zgadywanka\obj\Release\net8.0\win-x64\zgadywanka.csproj.CoreCompileInputs.cache
+D:\OneDrive - Politechnika Wroclawska\PRACA-GIGANCI\MOJE KURSY ROCZNE\C#_01W\17.Zgadywanka\source_code\zgadywanka\obj\Release\net8.0\win-x64\zgadywanka.dll
+D:\OneDrive - Politechnika Wroclawska\PRACA-GIGANCI\MOJE KURSY ROCZNE\C#_01W\17.Zgadywanka\source_code\zgadywanka\obj\Release\net8.0\win-x64\refint\zgadywanka.dll
+D:\OneDrive - Politechnika Wroclawska\PRACA-GIGANCI\MOJE KURSY ROCZNE\C#_01W\17.Zgadywanka\source_code\zgadywanka\obj\Release\net8.0\win-x64\zgadywanka.pdb
+D:\OneDrive - Politechnika Wroclawska\PRACA-GIGANCI\MOJE KURSY ROCZNE\C#_01W\17.Zgadywanka\source_code\zgadywanka\obj\Release\net8.0\win-x64\zgadywanka.genruntimeconfig.cache
+D:\OneDrive - Politechnika Wroclawska\PRACA-GIGANCI\MOJE KURSY ROCZNE\C#_01W\17.Zgadywanka\source_code\zgadywanka\obj\Release\net8.0\win-x64\ref\zgadywanka.dll

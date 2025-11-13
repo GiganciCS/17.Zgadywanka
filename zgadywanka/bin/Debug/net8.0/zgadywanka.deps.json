@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "zgadywanka/1.0.0": {
+        "runtime": {
+          "zgadywanka.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zgadywanka/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
